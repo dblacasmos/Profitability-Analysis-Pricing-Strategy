@@ -9,7 +9,8 @@ Proyecto de **análisis de rentabilidad** y **estrategia de precios** basado en 
 - Análisis de pricing y recomendaciones
 
 ### Notebook (vista online)
-👉 https://nbviewer.org/github/dblacasmos/Profitability-Analysis-Pricing-Strategy/blob/main/Notebook_Profitability_Analysis_%26_Pricing_Strategy.ipynb
+👉 https://nbviewer.org/github/dblacasmos/Profitability-Analysis-Pricing-Strategy/blob/main/Profitability_Analysis_Pricing_Strategy_FIXED.html
+
 
 ### Estructura del repositorio
 ```txt
